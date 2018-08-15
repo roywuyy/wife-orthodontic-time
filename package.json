@@ -1,0 +1,19 @@
+{
+  "name": "wife-orthodontic-time",
+  "version": "1.0.0",
+  "description": "Orthodontic tooth timer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roywuyy/wife-orthodontic-time.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roywuyy/wife-orthodontic-time/issues"
+  },
+  "homepage": "https://github.com/roywuyy/wife-orthodontic-time#readme"
+}
